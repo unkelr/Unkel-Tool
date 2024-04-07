@@ -1,0 +1,1 @@
+pip install requests pycryptodome pywin32 colorama ipinfo
